@@ -2,17 +2,17 @@
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/30_xhg7on.png "SpotiApp Demo | Angular")
+![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/GitHub/30_xhg7on.png "SpotiApp Demo | Angular")
 
-![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/31_siowpg.png "SpotiApp Demo | Angular")
+![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/GitHub/31_siowpg.png "SpotiApp Demo | Angular")
 
-![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/32_byhwjb.png "SpotiApp Demo | Angular")
+![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/GitHub/32_byhwjb.png "SpotiApp Demo | Angular")
 
-![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093947/GitHub_Template_txl1tm.png "SpotiApp Demo | Angular")
+![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093947/GitHub/GitHub_Template_txl1tm.png "SpotiApp Demo | Angular")
 
-![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/33_qesylz.png "SpotiApp Demo | Angular")
+![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/GitHub/33_qesylz.png "SpotiApp Demo | Angular")
 
-![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/34_jdbsmb.png "SpotiApp Demo | Angular")
+![SpotiApp Demo | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602093948/GitHub/34_jdbsmb.png "SpotiApp Demo | Angular")
 
 Aplicación utilizando la API de Spotify.
 
